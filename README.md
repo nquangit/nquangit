@@ -94,17 +94,14 @@ My goal is to contribute to a safer online environment by continuously enhancing
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&theme=vue-dark&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=nquangit&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://streak-stats.demolab.com/?user=nquangit&theme=vue-dark&hide_border=true" alt="streak stats"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=nquangit&theme=darkhub&no-frame=true&column=10">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=nquangit&theme=vue-dark&no-frame=true&column=10">
     </a>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=nquangit&theme=dark" alt="contribution stats">
-    </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
@@ -113,7 +110,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="quotes card">
     </a>
 </details>
 
@@ -121,7 +118,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 <details>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+        <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&hideBorder" alt="Jokes Card" />
     </a>
 </details>
 
