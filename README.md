@@ -14,7 +14,9 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nquangit&style=flat-square&color=blue" alt=""/>
+  
+  [![](https://visitcount.itsvg.in/api?id=nquangit&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 
 <h1 align="center">
