@@ -100,7 +100,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
         <img height=180em src="https://streak-stats.demolab.com/?user=nquangit&theme=vue-dark&hide_border=true" alt="streak stats"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=nquangit&theme=vue-dark&no-frame=true&column=10">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=nquangit&theme=tokyonight&no-frame=true&column=10">
     </a>
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
