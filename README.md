@@ -53,17 +53,6 @@ I'm deeply passionate about web penetration testing and related security topics.
 
 My goal is to contribute to a safer online environment by continuously enhancing my skills and knowledge in web penetration testing.
 
-## :fire: My GitHub Stats
-<div align="center">
-
-  [![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nquangit&theme=dark)](https://github.com/nquangit)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=dark)](https://github.com/nquangit)
-
-</div>
-
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -82,14 +71,20 @@ My goal is to contribute to a safer online environment by continuously enhancing
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Git" **alt="Linux" width="40" height="40"/>
 </div>
 
+## :fire: My GitHub Stats
+<div align="center">
 
+  [![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nquangit&theme=dark)](https://github.com/nquangit)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=dark)](https://github.com/nquangit)
+
+</div>
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
 <a href="https://app.daily.dev/nquangit"><img src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
-<!---
-nquangit/nquangit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">
 
