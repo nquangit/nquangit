@@ -94,6 +94,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
+
 ## :zany_face: Joke of the day
 <details>
     <summary>See joke</summary>
