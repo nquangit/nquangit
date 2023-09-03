@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=nquangit&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngzdjNnaXgwbXp2bTA3dGxjMTlvbTJ4Z2xlc3Y5b3M1bXExMjJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-# Hi there, I'm Ngoc Quang! 👋
+# I'm Ngoc Quang! 👋
 
 I'm a passionate Information Assurance enthusiast currently studying at FPT University. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions related to Information Assurance, as well as some of my other interests.
 
