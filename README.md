@@ -26,15 +26,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
-
-<p align="center">
-  <span style="color:blue;">I am nquangit</span> - 
-  <span style="color:red;">a web pentester</span> 
-  <span style="color:green;">from Vietnam</span> 
-  <span style="color:orange;">👋</span>
-</p>
-
-
 # I am nquangit - a web pentester <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> from Vietnam 👋
 
 I'm a passionate Information Assurance enthusiast currently studying at FPT University. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions related to Information Assurance, as well as some of my other interests.
