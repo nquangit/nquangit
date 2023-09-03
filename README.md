@@ -87,6 +87,21 @@ My goal is to contribute to a safer online environment by continuously enhancing
 
 </div>
 
+## :thought_balloon: Quote of the day
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+## :zany_face: Joke of the day
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+
 ## :trophy: Misc
 <div>
   <div>
