@@ -77,15 +77,40 @@ My goal is to contribute to a safer online environment by continuously enhancing
 </div>
 
 ## :fire: My GitHub Stats
-<div align="center">
-
-  [![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=gotham)](https://github.com/nquangit)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nquangit&theme=gotham)](https://github.com/nquangit)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=gotham)](https://github.com/nquangit)
-
-</div>
+<details>
+    <summary>My GitHub stats</summary>
+    <div>
+        <a href="https://github.com/nquangit">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/nquangit?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        </a>
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+    </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-nquangit.vercel.app/api?username=nquangit&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    </br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-nquangit.vercel.app/api/top-langs/?username=nquangit&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://streak-stats.demolab.com/?user=nquangit&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nquangit&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=nquangit&theme=darkhub&no-frame=true&column=10">
+    </a>
+    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=nquangit&theme=dark" alt="contribution stats">
+    </a>-->
+    </br>
+    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+</details>
 
 ## :thought_balloon: Quote of the day
 <details open>
