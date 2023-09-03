@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 # Hi there, I'm Ngoc Quang! 👋
 
 I'm a passionate Information Assurance enthusiast currently studying at FPT University. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions related to Information Assurance, as well as some of my other interests.
