@@ -81,13 +81,13 @@ My goal is to contribute to a safer online environment by continuously enhancing
     <summary>My GitHub stats</summary>
     <div>
         <a href="https://github.com/nquangit">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/nquangit?style=for-the-badge&labelColor=7E3ACE&color=36BCF7">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/nquangit?style=for-the-badge&labelColor=36BCF7&color=181717">
         </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/nquangit?color=36BCF7&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/nquangit?color=36BCF7&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/nquangit?color=36BCF7&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/nquangit?color=36BCF7&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/nquangit?color=36BCF7&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/nquangit?color=181717&style=for-the-badge&labelColor=36BCF7"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/nquangit?color=181717&style=for-the-badge&labelColor=36BCF7"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/nquangit?color=181717&style=for-the-badge&labelColor=36BCF7"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/nquangit?color=181717&style=for-the-badge&labelColor=36BCF7"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/nquangit?color=181717&style=for-the-badge&labelColor=36BCF7"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=nquangit&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true" alt="my_github_stats" />
