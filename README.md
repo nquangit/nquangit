@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngzdjNnaXgwbXp2bTA3dGxjMTlvbTJ4Z2xlc3Y5b3M1bXExMjJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=%E2%AD%90Welcome+to+my+profile%E2%AD%90)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
