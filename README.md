@@ -32,9 +32,10 @@ I'm passionate about Information Assurance, and I'm continually expanding my kno
 - 💻 Secure Coding: Writing code that is resistant to attacks and vulnerabilities.
 - 🚀 Technology Trends: Keeping up with the latest developments in the world of IT security.
 
-## My GitHub Stats
+## :fire: My GitHub Stats
 
-[![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
+[![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/nquangit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=vision-friendly-dark)](https://github.com/nquangit)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
