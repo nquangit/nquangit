@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/nquangit/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=nquangit&style=flat-square&color=blue" alt=""/>
 </div>
 
 # Hi there, I'm Ngoc Quang! 👋
@@ -50,4 +51,3 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">
 
-[![](https://visitcount.itsvg.in/api?id=nquangit&icon=0&color=0)](https://github.com/nquangit)
