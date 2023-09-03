@@ -77,7 +77,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 </div>
 
 ## :fire: My GitHub Stats
-<details>
+<details open>
     <summary>My GitHub stats</summary>
     <div>
         <a href="https://github.com/nquangit">
