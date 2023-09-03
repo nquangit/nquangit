@@ -92,8 +92,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 
 <div align="center">
   
-  ### Thank you for visiting my GitHub profile! 🌟
-  I look forward to connecting with you! 🚀
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&multiline=true&width=480&height=60&lines=%F0%9F%8C%9FThanks+for+your+visit%F0%9F%8C%9F;I+look+forward+to+connecting+with+you!+)](https://git.io/typing-svg)
   
 </div>
 
