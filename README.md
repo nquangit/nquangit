@@ -15,7 +15,7 @@
 </div>
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=nquangit&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=nquangit&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
