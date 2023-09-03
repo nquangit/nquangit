@@ -39,7 +39,7 @@ I'm a passionate Information Assurance enthusiast currently studying at FPT Univ
 - 📫 You can reach me via email at [czap_kochman@aleeas.com](mailto:czap_kochman@aleeas.com).
 - 😄 Pronouns: He/Him
 
-## My Interests
+## :computer: My Interests
 
 I'm deeply passionate about web penetration testing and related security topics. Some of my key interests include:
 
@@ -82,9 +82,13 @@ My goal is to contribute to a safer online environment by continuously enhancing
 
 </div>
 
+## :trophy: Misc
+<div align="center">
+  <a href="https://app.daily.dev/nquangit"><img src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">  
+</div>
+
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
-<a href="https://app.daily.dev/nquangit"><img src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">
 
