@@ -80,12 +80,6 @@ My goal is to contribute to a safer online environment by continuously enhancing
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Git" **alt="Linux" width="40" height="40"/>
 </div>
 
-## Get in Touch
-
-If you share similar interests or want to collaborate on a project, don't hesitate to reach out. You can find me on the following platforms:
-
-- 🐦 Facebook: [@nquangit](https://www.facebook.com/quangIT2k4/)
-- 💼 LinkedIn: [nquangit](https://www.linkedin.com/in/nquangit/)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
