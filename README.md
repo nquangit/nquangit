@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
-# I am nquangit - a web pentester <img src="https://media.giphy.com/media/hTx1lUNcue6P6XOXip/giphy.gif" width="30"> from Vietnam 👋
+# I am nquangit - a web pentester <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> from Vietnam 👋
 
 I'm a passionate Information Assurance enthusiast currently studying at FPT University. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions related to Information Assurance, as well as some of my other interests.
 
