@@ -47,12 +47,13 @@ I'm passionate about Information Assurance, and I'm continually expanding my kno
 - 🚀 Technology Trends: Keeping up with the latest developments in the world of IT security.
 
 ## :fire: My GitHub Stats
-
-[![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=dark)](https://github.com/nquangit)
+<div aling="center">
+  [![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=dark)](https://github.com/nquangit)
+</div>
 
 ## :hammer_and_wrench: Languages and Tools :
-<div>
+<div aling="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
