@@ -90,7 +90,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
         <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=nquangit&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my_github_stats" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=nquangit&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&hide_title=true" alt="my_github_stats" />
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -110,7 +110,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
 
@@ -118,7 +118,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 <details>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&hideBorder" alt="Jokes Card" />
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
 </details>
 
