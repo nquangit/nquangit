@@ -90,11 +90,11 @@ My goal is to contribute to a safer online environment by continuously enhancing
         <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/nquangit?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-nquangit.vercel.app/api?username=nquangit&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+        <img height=180em src="[https://github-readme-stats-nquangit.vercel.app](https://github-readme-stats.vercel.app)/api?username=nquangit&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my_github_stats" />
     </a>
     </br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-nquangit.vercel.app/api/top-langs/?username=nquangit&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com/?user=nquangit&theme=midnight-purple&hide_border=true" alt="streak stats"/>
