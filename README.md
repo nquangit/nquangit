@@ -47,7 +47,6 @@ I'm deeply passionate about web penetration testing and related security topics.
 - 🔐 Ethical Hacking: Conducting controlled and authorized security assessments.
 - 💻 Secure Coding: Promoting best practices in writing secure web code.
 - 🚀 Exploitation Techniques: Learning about the latest methods used by attackers to compromise web systems.
-- 📊 Threat Intelligence: Staying informed about emerging threats and attack vectors in the digital landscape.
 - 🔍 Vulnerability Analysis: Analyzing and understanding security flaws to provide effective mitigation.
 - 🌐 Cybersecurity: Protecting digital assets and networks from threats and vulnerabilities.
 - 🛡️ Data Privacy: Ensuring the confidentiality and integrity of sensitive information.
