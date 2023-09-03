@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="300" />
 </div>
 
 <div id="badges" align="center">
@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
 # I'm Ngoc Quang! 👋
