@@ -88,6 +88,9 @@ My goal is to contribute to a safer online environment by continuously enhancing
   <img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">  
 </div>
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
+<div align="center">
+  ### Thank you for visiting my GitHub profile! 🌟
+  I look forward to connecting with you! 🚀
+</div>
 
 
