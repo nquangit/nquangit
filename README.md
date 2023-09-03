@@ -23,7 +23,7 @@
 </h1>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=%E2%AD%90Welcome+to+my+profile%E2%AD%90)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=%E2%AD%90Welcome+to+my+profile%E2%AD%90;%F0%9F%9A%80nquangit%F0%9F%9A%80;%F0%9F%92%BBweb+pentester%F0%9F%92%BB;%E2%9D%A4%EF%B8%8FR%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
   
 </div>
 
