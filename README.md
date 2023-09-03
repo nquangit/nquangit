@@ -81,6 +81,7 @@ My goal is to contribute to a safer online environment by continuously enhancing
 </div>
 
 
+
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
 <a href="https://app.daily.dev/nquangit"><img src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
