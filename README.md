@@ -89,8 +89,10 @@ My goal is to contribute to a safer online environment by continuously enhancing
 </div>
 
 <div align="center">
+  
   ### Thank you for visiting my GitHub profile! 🌟
   I look forward to connecting with you! 🚀
+  
 </div>
 
 
