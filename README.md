@@ -50,6 +50,7 @@ I'm passionate about Information Assurance, and I'm continually expanding my kno
 <div align="center">
 
   [![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nquangit&show_icons=true&count_private=true&theme=dark)](https://github.com/nquangit)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nquangit&layout=compact&theme=dark)](https://github.com/nquangit)
 
 </div>
