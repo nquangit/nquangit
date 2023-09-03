@@ -84,7 +84,9 @@ My goal is to contribute to a safer online environment by continuously enhancing
 
 ## :trophy: Misc
 <div>
-  <a href="https://app.daily.dev/nquangit"><img width="250" src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
+  <div>
+    <a href="https://app.daily.dev/nquangit"><img width="250" src="https://api.daily.dev/devcards/7fd1020532254fcb8dd29fd7e7ed9c97.png?r=3kb" width="400" alt="Huỳnh Ngọc Quang's Dev Card"/></a>
+  </div>
   <img src="https://tryhackme-badges.s3.amazonaws.com/ngocquang.png" alt="TryHackMe">  
 </div>
 
