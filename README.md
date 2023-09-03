@@ -41,8 +41,6 @@ I'm a passionate Information Assurance enthusiast currently studying at FPT Univ
 
 ## My Interests
 
-I'm passionate about Information Assurance, and I'm continually expanding my knowledge and skills in this field. Some of my key interests include:
-
 I'm deeply passionate about web penetration testing and related security topics. Some of my key interests include:
 
 - 🌐 Web Application Security: Identifying vulnerabilities in web applications and APIs.
@@ -51,7 +49,6 @@ I'm deeply passionate about web penetration testing and related security topics.
 - 🚀 Exploitation Techniques: Learning about the latest methods used by attackers to compromise web systems.
 - 📊 Threat Intelligence: Staying informed about emerging threats and attack vectors in the digital landscape.
 - 🔍 Vulnerability Analysis: Analyzing and understanding security flaws to provide effective mitigation.
-- 🚀 Technology Trends: Keeping up with the latest developments in the world of IT security.
 - 🌐 Cybersecurity: Protecting digital assets and networks from threats and vulnerabilities.
 - 🛡️ Data Privacy: Ensuring the confidentiality and integrity of sensitive information.
 
