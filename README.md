@@ -43,7 +43,7 @@ I'm a passionate Information Assurance enthusiast currently studying at FPT Univ
 - 🌱 I’m currently learning and exploring various aspects of Information Assurance.
 - 👯 I’m looking to collaborate on projects related to cybersecurity and data protection.
 - 💬 Feel free to reach out to me for discussions related to Information Assurance, cybersecurity, or anything else you'd like to chat about.
-- 📫 You can reach me via email at [czap_kochman@aleeas.com](mailto:czap_kochman@aleeas.com).
+- 📫 You can reach me via email at [czap_kochman@aleeas.com](mailto:nquangit@duck.com).
 - 😄 Pronouns: He/Him
 
 ## :computer: My Interests
