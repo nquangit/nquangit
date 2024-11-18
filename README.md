@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/quangIT2k4/">
+  <a href="https://www.facebook.com/nquangit/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nquangit/">
